@@ -30,7 +30,7 @@ This repository serves as a collection of JavaScript concepts, code snippets, an
 4. Run JavaScript files using Node.js or in the browser console.
 
 ## Resources
-- [Chai aur Code - YouTube playlist]([https://www.youtube.com/@ChaiAurCode](https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&si=B4q6kzLChGCHWhXS))
+- [Chai aur Code - YouTube playlist](https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&si=B4q6kzLChGCHWhXS)
 - [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript Info](https://javascript.info/)
 
