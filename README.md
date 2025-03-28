@@ -20,7 +20,7 @@ This repository serves as a collection of JavaScript concepts, code snippets, an
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/javascript-practice.git
+   https://github.com/AMITYDV7/Javascript-practice.git
    ```
 2. Navigate to the project directory:
    ```bash
