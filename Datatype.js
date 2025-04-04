@@ -1,24 +1,25 @@
-"use strict";
-
-console.log("amit");
-
+"use strict"; // if we use this our code is treated as newer version of js
+// but nowdays it automatically added
 
 
-let num = true
+//alert(3+3)// but this is not works on node.js but it works on the brower engine 
+//shows error
 
-if(num ==!true){
-    console.log("number is even")
-}
-else {
-    console.log("ODD")
-    
-}
+// ; is not necessary in js
 
-// question for practice
+let name ="amit"; //String "" or ''
 
-let first_name="Amit"
-let last_name = "Yadav"
+let age = 18 // int
+let condition = true // boolean
 
-console.log(first_name+" "+last_name)
+// null= is a stand alone value(type) this means something is empty not undefined
+let num; // this is undefined 
 
 
+//symbol =  mostly used in react for defing unique 
+console.log(typeof null);
+
+// null is object but undefined is undefined type
+
+
+// for documenatation prefer mdn docs
