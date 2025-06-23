@@ -16,12 +16,12 @@ console.log("------------------------------------------");
 
 // let take the example of heap memory
 
-let obj = {
+let obj1 = {
     email : "user@gmail.com",   // defining object in js
     userNum : 123
 }
 
-let obj2 = obj
+let obj2 = obj1
 
 console.log(obj.email)
 console.log(obj2.email)

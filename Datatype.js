@@ -20,6 +20,8 @@ let num; // this is undefined
 console.log(typeof null);
 
 // null is object but undefined is undefined type
+console.log(typeof num);
+
 
 
 // for documenatation prefer mdn docs

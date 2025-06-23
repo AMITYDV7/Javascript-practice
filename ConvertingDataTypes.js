@@ -1,7 +1,7 @@
 console.log(typeof 33); // number
 console.log(typeof null); // object
 console.log(typeof undefined); // undefined 
-console.log(typeof true);
+console.log(typeof true); //boolean 
 let name = "Amit";
 console.log(typeof name );
 
@@ -13,6 +13,11 @@ let numberIntoString = Number(num)
 console.log(numberIntoString);// true for 1 and false for 0
 console.log(typeof numberIntoString);
 // if we want to convert string into number then it will converted into NAN(not an number)
+
+console.log(typeof NaN); // nan is a number
+
+
+
 
 
 // console.log("------------------");
